@@ -16,14 +16,19 @@ Quality assurance is non-negotiable at OctoAcme. Every feature goes through unit
 
 Below are links to all the process guides in this folder. Start with the **Project Management Overview** for a high-level introduction, then explore specific phases as needed:
 
+### Core Process Guides
 - [**Project Management Overview**](octoacme-project-management-overview.md) — Core principles, roles, lifecycle, and how to use these docs
-- [**Roles and Personas**](octoacme-roles-and-personas.md) — Detailed definitions of PM, Product Manager, Developers, QA/Testing roles
+- [**Roles and Personas**](octoacme-roles-and-personas.md) — Detailed definitions of all team roles including Developers, Product Managers, Project Managers, UX Designers, DevOps Engineers, Scrum Masters, and QA/Testing
 - [**Project Initiation Guide**](octoacme-project-initiation.md) — How to validate and authorize new work with a project one-pager
 - [**Project Planning**](octoacme-project-planning.md) — Turning initiatives into actionable backlogs and release plans
 - [**Execution & Tracking**](octoacme-execution-and-tracking.md) — Day-to-day workflows, project boards, PR process, and quality practices
 - [**Risk Management & Communication**](octoacme-risks-and-communication.md) — Risk registers, stakeholder communication templates, and escalation paths
 - [**Release & Deployment**](octoacme-release-and-deployment.md) — Pre-release requirements, deployment checklists, and rollback procedures
 - [**Retrospective & Continuous Improvement**](octoacme-retrospective-and-continuous-improvement.md) — Capturing learnings and converting them into action items
+
+### Collaboration & Onboarding Guides
+- [**Cross-Functional Collaboration Guide**](octoacme-cross-functional-collaboration.md) — Handoff checklists, role interaction patterns, and best practices for seamless collaboration across UX, Engineering, DevOps, Product, and QA
+- [**Role Onboarding Checklist**](octoacme-role-onboarding-checklist.md) — Structured onboarding templates for all roles to ensure new team members quickly understand responsibilities and become productive
 
 ## Contributing
 
